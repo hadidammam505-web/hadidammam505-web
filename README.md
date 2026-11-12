@@ -18,6 +18,7 @@ Gym edits rendered from Python · AI masks and tracking · bilingual Arabic / En
 
 | Project | What it is |
 |---|---|
+| ✂️ **[beatcut](https://github.com/hadidammam505-web/beatcut)** · [![CI](https://github.com/hadidammam505-web/beatcut/actions/workflows/ci.yml/badge.svg)](https://github.com/hadidammam505-web/beatcut/actions) | CLI that copies a reference edit's cuts and rhythm, then renders your footage on the beat — cut + onset detection, frame-exact cached rendering, 33 tests. numpy + ffmpeg only. |
 | 🏋️ **[Rep Log](https://github.com/hadidammam505-web/rep-log)** · [live demo](https://hadidammam505-web.github.io/rep-log/) | Offline, bilingual gym tracker — PR detection, 1RM estimates, canvas progress charts, rest timer. Vanilla JS PWA, zero dependencies. |
 | 🎬 **[gym-luxury-edit](https://github.com/hadidammam505-web/gym-luxury-edit)** | Claude Code skill + ffmpeg templates that turn raw gym footage into dark, beat-synced 4K edits with body flashes, glitches and words behind the athlete. |
 | 🎞️ **[video-edit-pipeline](https://github.com/hadidammam505-web/video-edit-pipeline)** | The real build scripts behind six edits: SAM 2 tracking, BiRefNet cutouts, Real-ESRGAN, GPU transitions, FCPXML export to DaVinci Resolve. |
